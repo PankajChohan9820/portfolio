@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2375173c.css",
+    "main.js": "/portfolio/static/js/main.6a1bac0b.js",
+    "static/js/787.81588d33.chunk.js": "/portfolio/static/js/787.81588d33.chunk.js",
+    "static/media/portfolioVideo.gif": "/portfolio/static/media/portfolioVideo.601b212f00d16625d359.gif",
+    "static/media/onlineFood.gif": "/portfolio/static/media/onlineFood.f9a5eff5527a2d82a614.gif",
+    "static/media/SpaceShooter.png": "/portfolio/static/media/SpaceShooter.3ae0e943923c31eec46a.png",
+    "static/media/corona.png": "/portfolio/static/media/corona.2aa384c344003762689c.png",
+    "static/media/to-do-list.webp": "/portfolio/static/media/to-do-list.e0e6f75dc41d3a5be630.webp",
+    "static/media/web-scraping-using-selenium.png": "/portfolio/static/media/web-scraping-using-selenium.3f84dee6f1835b2a7f58.png",
+    "static/media/ohm3000.webp": "/portfolio/static/media/ohm3000.92294c51e44e301941a3.webp",
+    "index.html": "/portfolio/index.html",
+    "main.2375173c.css.map": "/portfolio/static/css/main.2375173c.css.map",
+    "main.6a1bac0b.js.map": "/portfolio/static/js/main.6a1bac0b.js.map",
+    "787.81588d33.chunk.js.map": "/portfolio/static/js/787.81588d33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2375173c.css",
+    "static/js/main.6a1bac0b.js"
+  ]
+}
